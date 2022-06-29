@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262489042162",
+    "project_id": "lorakahn-movie-tips-d534a",
+    "storage_bucket": "lorakahn-movie-tips-d534a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262489042162:android:1e2d65ecfc59eb06f6346b",
+        "android_client_info": {
+          "package_name": "com.example.lorakahnmovietips_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262489042162-1tq2fa9fr7vq7aug119vodvv4pu3bnud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5hDKorS62ltcjb1EXT6ZUVsH9-UhcOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262489042162-1tq2fa9fr7vq7aug119vodvv4pu3bnud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
